@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about" class="section">
+        <h2>About Me</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, qui incidunt distinctio ratione ab
+            obcaecati. Impedit nisi, fuga beatae harum ea voluptatibus laudantium eius laboriosam corrupti nihil, earum
+            error ad debitis. Deserunt dolore facere maiores, consectetur dolores aliquam obcaecati mollitia odit
+            incidunt quos est nemo id aspernatur hic porro aliquid odio rerum provident officia laborum. Voluptatum
+            consequuntur sapiente necessitatibus omnis totam quo pariatur sequi enim adipisci. Voluptate ipsam tempore
+            eveniet ipsum maiores. Fuga aliquid minima commodi fugiat, sunt laudantium iure pariatur delectus mollitia
+            tempora ipsam cupiditate, voluptas dolores nisi fugit voluptatem vitae dignissimos provident quas!
+            Distinctio officia quidem cupiditate accusamus.</p>
+    </section>
+
+    <section id="portfolio" class="section">
+        <h2>Portfolio</h2>
+        <div class="project">
+            <img src="project1.jpg" alt="Project 1">
+            <h3>Tic tac toe</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto totam odit a dolorem voluptatem atque
+                blanditiis ipsa obcaecati dolor. Assumenda, quae! Dolorum et fugiat natus deserunt laudantium quod
+                corrupti nam praesentium sint eius nulla, nisi sapiente facere at beatae sit, neque d787oloremque possimus,
+            </p>
+        </div>
+        <div class="project">
+            <img src="project2.jpg" alt="Project 2">
+            <h3>Project 2</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsum sequi laudantium nihil deserunt quo
+                excepturi consequatur, eos maxime aliquid. Aut mollitia, corporis, facilis expedita eius nam iste ipsam,
+                assumenda molestiae magni earum? Corrupti, sunt amet! Incidunt ex consectetur illum asperiores corporis
+                distinctio, tempora quos voluptates vel repudiandae sapiente provident.</p>
+        </div>
+        <!-- Add more projects here -->
+    </section>
+
+    <section id="contact" class="section">
+        <h2>Contact</h2>
+        <p>You can reach me at <a href="">Linkedin</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about" class="section">
+        <h2>About Me</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, qui incidunt distinctio ratione ab
+            obcaecati. Impedit nisi, fuga beatae harum ea voluptatibus laudantium eius laboriosam corrupti nihil, earum
+            error ad debitis. Deserunt dolore facere maiores, consectetur dolores aliquam obcaecati mollitia odit
+            incidunt quos est nemo id aspernatur hic porro aliquid odio rerum provident officia laborum. Voluptatum
+            consequuntur sapiente necessitatibus omnis totam quo pariatur sequi enim adipisci. Voluptate ipsam tempore
+            eveniet ipsum maiores. Fuga aliquid minima commodi fugiat, sunt laudantium iure pariatur delectus mollitia
+            tempora ipsam cupiditate, voluptas dolores nisi fugit voluptatem vitae dignissimos provident quas!
+            Distinctio officia quidem cupiditate accusamus.</p>
+    </section>
+
+    <section id="portfolio" class="section">
+        <h2>Portfolio</h2>
+        <div class="project">
+            <img src="project1.jpg" alt="Project 1">
+            <h3>Tic tac toe</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto totam odit a dolorem voluptatem atque
+                blanditiis ipsa obcaecati dolor. Assumenda, quae! Dolorum et fugiat natus deserunt laudantium quod
+                corrupti nam praesentium sint eius nulla, nisi sapiente facere at beatae sit, neque doloremque possimus,
+            </p>
+        </div>
+        <div class="project">
+            <img src="project2.jpg" alt="Project 2">
+            <h3>Project 2</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsum sequi laudantium nihil deserunt quo
+                excepturi consequatur, eos maxime aliquid. Aut mollitia, corporis, facilis expedita eius nam iste ipsam,
+                assumenda molestiae magni earum? Corrupti, sunt amet! Incidunt ex consectetur illum asperiores corporis
+                distinctio, tempora quos voluptates vel repudiandae sapiente provident.</p>
+        </div>
+        <!-- Add more projects here -->
+    </section>
+
+    <section id="contact" class="section">
+        <h2>Contact</h2>
+        <p>You can reach me at <a href="https://www.linkedin.com/in/sourav-singh-248774270">Linkedin</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
